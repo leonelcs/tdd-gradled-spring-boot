@@ -11,11 +11,6 @@ import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
 
-/**
- * This class define the necessary fields of an account
- *
- * @author Noel Rodriguez
- */
 
 @ApiModel(value = "DTO Account")
 @Entity

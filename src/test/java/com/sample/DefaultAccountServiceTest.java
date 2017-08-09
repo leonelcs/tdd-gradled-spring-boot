@@ -21,14 +21,6 @@ import static org.junit.Assert.assertThat;
 import static org.mockito.Mockito.mock;
 import static org.mockito.Mockito.when;
 
-/**
- * This class has been develop with tdd.
- *
- * The goal of this class is go from the test to the service, developing the necesary steps to reach all process of
- * our service
- *
- * @author Noel Rodriguez
- */
 public class DefaultAccountServiceTest {
 
     @Mock

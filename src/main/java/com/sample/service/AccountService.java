@@ -5,12 +5,6 @@ import com.sample.model.Account;
 import java.util.List;
 import java.util.Optional;
 
-/**
- * Interface of AccountService, this interface define the necessary methods
- * to work with accounts
- *
- * @author Noel Rodriguez
- */
 public interface AccountService {
 
     /**

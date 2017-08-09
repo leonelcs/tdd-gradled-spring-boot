@@ -25,19 +25,7 @@ import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.
 import static org.springframework.test.web.servlet.setup.MockMvcBuilders.webAppContextSetup;
 
 
-/**
- * Account integration test
- *
- * We have develop three test to check our microservices
- * <ul>
- *     <li>findAll</li>
- *     <li>SaveAccount</li>
- *     <li>GetAccountById</li>
- *     <li>failWithWrongAccount</li>
- * </ul>
- *
- * @author Noel Rodriguez
- */
+
 
 
 @RunWith(SpringRunner.class)

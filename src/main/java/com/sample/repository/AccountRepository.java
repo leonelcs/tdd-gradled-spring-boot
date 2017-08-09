@@ -4,10 +4,6 @@ import com.sample.model.Account;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
-/**
- * This layer is in charge on connect with DB
- * @author Noel Rodriguez
- */
 
 @Repository
 public interface AccountRepository extends JpaRepository<Account, Long> {

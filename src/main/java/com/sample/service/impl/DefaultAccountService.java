@@ -9,11 +9,6 @@ import org.springframework.stereotype.Service;
 import java.util.List;
 import java.util.Optional;
 
-/**
- * This class implement  accountServic
- *
- * @author Noel Rodriguez
- */
 
 @Service
 public class DefaultAccountService implements AccountService {

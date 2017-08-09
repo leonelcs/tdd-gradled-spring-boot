@@ -14,12 +14,6 @@ import javax.validation.Valid;
 import java.util.List;
 import java.util.Optional;
 
-/**
- * Controller tier, this class is in charge on manage the request and respond of the
- * account microservice
- *
- * @author Noel Rodriguez
- */
 
 @RestController
 @RequestMapping(value = "/accounts")

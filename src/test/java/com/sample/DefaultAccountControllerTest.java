@@ -26,15 +26,6 @@ import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.
 import static org.springframework.test.web.servlet.setup.MockMvcBuilders.standaloneSetup;
 
 
-/**
- * This class has been develop with tdd.
- *
- * The goal of this class is go from the test to the controller, developing the necesary steps to reach all process of
- * our controller
- *
- * @author Noel Rodriguez
- */
-
 
 public class DefaultAccountControllerTest {
 
